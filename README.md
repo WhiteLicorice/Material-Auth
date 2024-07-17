@@ -1,6 +1,6 @@
 # Material Auth
 
-A mobile sales authentication application built with Flutter and Supabase, following a minimalist-first philosophy. Designed to be a companion of [Material Cashier](https://github.com/WhiteLicorice/Material-Cashier).
+A mobile sales authenticator application built with Flutter and Supabase, following a minimalist-first philosophy. Designed to be a companion of [Material Cashier](https://github.com/WhiteLicorice/Material-Cashier).
 
 ## Getting Started
 
